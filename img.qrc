@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/miclogo.png</file>
+        <file>img/logo.png</file>
+        <file>img/jogreess.png</file>
+        <file>img/bg1.JPG</file>
+        <file>img/bg.JPG</file>
+    </qresource>
+</RCC>

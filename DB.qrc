@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/database">
+        <file>database/mic.db</file>
+    </qresource>
+</RCC>
