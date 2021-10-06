@@ -35,7 +35,7 @@
 <h3 align="center">HOTEL SYSTEM</h3>
 
   <p align="center">
-    project_description
+    My First Project written in C++ under Qt6 framework
     <br />
     <a href="https://github.com/kiwymonzy/Hotel"><strong>Explore the docs »</strong></a>
     <br />
@@ -52,15 +52,20 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## CHECKIN TEMPLETE
+![Product Name Screen Shot][product-screenshot1]
+## CHECKOUT TEMPLETE
+![Product Name Screen Shot][product-screenshot2]
+## REPORT TEMPLETE
+![Product Name Screen Shot][product-screenshot3]
 
-[![Product Name Screen Shot][product-screenshot]]
 
 
 ### Built With
 
 * [Qt6](https://qt.io/)
 * [C++](https://isocpp.org/)
+* [SQLite3](http://sqlitebrowser.org/)
 
 
 
@@ -68,6 +73,7 @@
 ## Getting Started
 
 ----Change the Database(SQLITE) Directory in the Login.cpp & Login.h----
+report password:admin (Can be changed in the user table in the database
 
 <!-- CONTACT -->
 ## Contact
@@ -90,4 +96,6 @@ Project Link: [https://github.com/kiwymonzy/Hotel](https://github.com/kiwymonzy/
 [issues-url]: https://github.com/kiwymonzy/Hotel/issues
 [license-shield]: https://img.shields.io/github/license/kiwymonzy/Hotel.svg?style=for-the-badge
 [license-url]: https://github.com/kiwymonzy/Hotel/blob/master/LICENSE.txt
-[product-screenshot]: screenshot/Screenshot1.png
+[product-screenshot1]: screenshot/Screenshot1.png
+[product-screenshot2]: screenshot/Screenshot2.png
+[product-screenshot3]: screenshot/Screenshot3.png
